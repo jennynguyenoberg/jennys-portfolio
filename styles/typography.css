@@ -1,0 +1,20 @@
+@font-face {
+  font-family: SFUIText;
+  font-weight: 300;
+  src: url('../fonts/SFUIText-Light.woff') format('woff'),
+       url('../fonts/SFUIText-Light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: SFUIText;
+  font-weight: 500;
+  src: url('../fonts/SFUIText-Regular.woff') format('woff'),
+       url('../fonts/SFUIText-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: SFUIText;
+  font-weight: 700;
+  src: url('../fonts/SFUIText-Semibold.woff') format('woff'),
+       url('../fonts/SFUIText-Semibold.woff2') format('woff2');
+}
