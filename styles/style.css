@@ -1,4 +1,3 @@
-
 html {
   height: 100vh;
 }
@@ -223,31 +222,31 @@ nav {
   text-align: center;
 }
 
-.box {
+.project-box {
   display: inline;
 }
 
-.box img {
+.project-box img {
   width: 100%;
 }
 
-.box p {
+.project-box p {
   text-align: center;
   width: 80%;
 }
 
-.box .col {
+.project-box .project-column {
   align-items: center;
   display: flex;
   flex-direction: column;
   margin: 20px;
 }
 
-.projects .box {
+.projects .project-box {
   margin-top: 50px;
 }
 
-.projects .ctn {
+.projects .cta {
   margin-top: 20px;
 }
 
@@ -372,11 +371,11 @@ form textarea {
     font-size: 30px;
   }
 
-  .box p {
+  .project-box p {
     display: none;
   }
 
-  .box .ctn {
+  .project-box .cta {
     margin-top: -5px;
   }
 
